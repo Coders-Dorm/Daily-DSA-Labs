@@ -1,10 +1,10 @@
 <h1 align= "center"> Daily-DSA-Labs <h1>
 <br>
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2022 </h1>
 
 <h3 align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
+    <a href="https://hacktoberfest.com/">
+        Welcome to HacktoberFest 2022
     </a>
 </h3>
 
