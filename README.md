@@ -65,7 +65,7 @@
 ### Queries or Suggestions
 Contact :
 <br>
-[Kodepirate](mailt0: aniketaditya2002@gmail.com)
+[Kodepirate](mailto:aniketaditya2002@gmail.com)
 <br>
         [Morbius00](mailto:saharaj4455@gmail.com)
 ### References
