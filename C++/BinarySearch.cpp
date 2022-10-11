@@ -9,26 +9,22 @@ int binarySearch(int arr[], int size, int key)
 
     int start = 0;
     int end = size - 1;
-    
+
     // Looking for the mid element
     int mid = start + (end - start) / 2;
 
-    while (start <= end)
-    {
-        if (arr[mid] == key)
-        {
+    while (start <= end) {
+        if (arr[mid] == key) {
             return mid;
         }
-        
+
         // Looking for the right part
-        else if (key > arr[mid])
-        {
+        else if (key > arr[mid]) {
             start = mid + 1;
         }
-        
+
         // Looking for the left part
-        else
-        {
+        else {
             end = mid - 1;
         }
         mid = (start + end) / 2;
