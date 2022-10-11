@@ -1,5 +1,10 @@
 <h1 align= "center"> Daily-DSA-Labs <h1>
+
+
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+
+![image](https://user-images.githubusercontent.com/93483932/195094440-21a61b1a-6feb-497f-a494-6e4d8aa0a5a4.png)
+### This repo is now not a part of Hacktoberfest,So if you are contributing, you will contribuite to open-source not hacktoberfest 2022
 
 
 
