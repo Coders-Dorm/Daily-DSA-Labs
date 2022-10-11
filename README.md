@@ -15,6 +15,12 @@
 <a href="https://github.com/Coders-Dorm/Daily-DSA-Labs/issues"><img src="https://img.shields.io/github/issues/Coders-Dorm/Daily-DSA-Labs" alt="Issues Badge"/></a>
 
 
+<p align="center">
+  <a href="#"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>&nbsp;&nbsp;
+  
+  <a href="#"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" /></a>&nbsp;&nbsp;
+</p>
+
 <h3 align="center">Data Structures and Algorithms</h3>
 <h4 align="center">This project is a part of Hacktoberfest 2022</h4>
 </div>
@@ -78,6 +84,28 @@ Contact :
 <br>
 <h5 align="center">Happy Contributing!</h5>
 <h5 align="center">May you have a great Hacktoberfest 2022!</h5>
+
+
+# Contributors 💪😎
+>Thanks a lot for spending your time helping! Keep rocking 🍻
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/kodepirate">
+            <img src="https://avatars.githubusercontent.com/u/93483932?v=4" width="100"/>
+            <br />
+            <sub><b>kodepirate</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Morbius00">
+            <img src="https://avatars.githubusercontent.com/u/102956488?s=96&v=4"/>
+            <br />
+            <sub><b>Morbius00</b></sub>
+        </a>
+    </td></tr>
+</table>
 
 ## License
 
